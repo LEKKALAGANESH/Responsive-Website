@@ -11,8 +11,6 @@ Responsive-Website/
 ├── Navbar & Banner Section/            # Navigation and hero banner
 ├── Tools Section/                        # Design tools showcase
 ├── README.md                            # This file
-├── PROJECT_DETAILS.md                   # Project and resume details
-└── LINKEDIN_POST.md                     # LinkedIn post content
 ```
 
 ## 📋 Components Overview
